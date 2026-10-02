@@ -1,0 +1,6 @@
+{
+  "name": "Cosmic Striker - ネオン・シューティング",
+  "description": "隕石を避けながら敵機を撃破してハイスコアを目指す爽快な縦スクロールシューティングゲーム。エキサイティングな爆発エフェクトと爽快サウンド付き。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
